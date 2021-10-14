@@ -1,0 +1,10 @@
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\bin\Debug\OneDrive Folder Renamer.exe.config
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\bin\Debug\OneDrive Folder Renamer.exe
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\bin\Debug\OneDrive Folder Renamer.pdb
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\obj\Debug\OneDrive Folder Renamer.csprojAssemblyReference.cache
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\obj\Debug\OneDrive_Folder_Rename.Form1.resources
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\obj\Debug\OneDrive_Folder_Renamer.Properties.Resources.resources
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\obj\Debug\OneDrive Folder Renamer.csproj.GenerateResource.cache
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\obj\Debug\OneDrive Folder Renamer.csproj.CoreCompileInputs.cache
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\obj\Debug\OneDrive Folder Renamer.exe
+C:\Projetos\OneDrive Folder Rename\OneDrive Folder Rename\obj\Debug\OneDrive Folder Renamer.pdb
